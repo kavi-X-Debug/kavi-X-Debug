@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋, I'm Kavishka
 
-<!--
-**kavi-X-Debug/kavi-X-Debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Developer & Cyber Security Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- 🔭 I’m currently working on Your Project
+- 🌱 I’m currently learning Networking & Python
+- 👯 I’m looking to collaborate on Cyber Security projects
+- 💬 Ask me about Python, Java, C, etc
+- 📫 How to reach me: your@email.com
+
+---
+
+## 🌐 Connect With Me
+[LinkedIn](www.linkedin.com/in/kavishka-chathuranga-51b962334)
+[Facebook](your-link)
+
+---
+
+## 🛠️ Languages and Tools
+![Python](https://skillicons.dev/icons?i=python)
+![Java](https://skillicons.dev/icons?i=java)
+![React](https://skillicons.dev/icons?i=react)
