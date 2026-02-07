@@ -29,6 +29,7 @@
 <a href="https://profile.hackthebox.com/profile/019c386a-3630-719d-b16c-72a9bfdc48bc" target="_blank">
   <img src="https://www.hackthebox.com/images/logo-htb.svg" height="40"/>
 </a>
+
 ---
 
 ## 🛠️ Languages and Tools
