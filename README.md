@@ -27,12 +27,11 @@
 </a>
 &nbsp;&nbsp;
 <a href="https://profile.hackthebox.com/profile/019c386a-3630-719d-b16c-72a9bfdc48bc" target="_blank">
-  <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/png/hack-the-box.png" height="40"/>
+  <img src="https://www.hackthebox.com/images/logo-htb.svg" height="40"/>
 </a>
-
-
 ---
 
 ## 🛠️ Languages and Tools
-<img src="https://skillicons.dev/icons?i=python,java,js,nodejs,react,bash,linux" />
+<img src="https://skillicons.dev/icons?i=c,html,css,js,php,express,nodejs,react,tailwind,git,github,linux,kali,bash,postman,vercel,octave&perline=8" />
+
 
