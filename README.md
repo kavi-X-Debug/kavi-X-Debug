@@ -5,11 +5,11 @@
 ---
 
 ## 👨‍💻 About Me
-- 🔭 I’m currently working on Your Project
-- 🌱 I’m currently learning Networking & Python
+- 🔭 I’m currently working on personal & academic projects
+- 🌱 I’m currently learning Networking & Python for Cyber Security
 - 👯 I’m looking to collaborate on Cyber Security projects
-- 💬 Ask me about Python, Java, C, etc
-- 📫 How to reach me: kavishchathur2002@gmail.com
+- 💬 Ask me about Python, Java, C, JavaScript
+- 📫 How to reach me: **kavishchathur2002@gmail.com**
 
 ---
 
@@ -20,7 +20,9 @@
 <a href="https://www.facebook.com/share/1K2526uZRW/" target="_blank">
   <img src="https://skillicons.dev/icons?i=facebook" height="40"/>
 </a>
+
 ---
 
 ## 🛠️ Languages and Tools
 <img src="https://skillicons.dev/icons?i=python,java,js,nodejs,react,bash,linux" />
+
